@@ -3,7 +3,7 @@ When an arithmetic or comparison operator is used between a NumPy array and a sc
 ```py-cell
 import numpy as np
 
-a = np.arange(1, 4)
+a = np.array([1, 2, 3])
 print("a:                    ", a)
 print("Addition:             ", 2 + a)
 print("Left Subtraction:     ", 2 - a)
