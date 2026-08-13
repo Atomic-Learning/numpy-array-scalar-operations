@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
+    "title": "NumPy: Array-Scalar Operations",
+    "slug": "numpy-array-scalar-operations",
+    "description": "Shows how a scalar operand is applied to every element of a NumPy array when using arithmetic and comparison operators, in either operand order.",
+    "authors": ["chris-cooling", "giorgia-del-missier"],
+    "tags": ["python", "numpy"],
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "numpy-arrays",
+        "python-arithmetic-operators",
+        "python-comparison-operators"
     ],
     "related": [
-        "",
-        ""
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
