@@ -11,7 +11,8 @@
         "python-comparison-operators"
     ],
     "related": [
-        "example-counting-elements-in-numpy-array-under-value"
+        "example-counting-elements-in-numpy-array-under-value",
+        "exercise-numpy-array-operations-prediction"
     ],
     "python_packages": [
         "numpy"
